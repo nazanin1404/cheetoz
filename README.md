@@ -1,4 +1,4 @@
-![website-banner-1920-min](https://github.com/user-attachments/assets/aaa1606c-dde6-4e30-831a-453083866295)
+
 # cheetoz
 Developed by nazanin zahra
 
